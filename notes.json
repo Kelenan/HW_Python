@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "title": "test",
+    "body": "test",
+    "created_at": "17-02-2024 15:14:15"
+  },
+  {
+    "id": 2,
+    "title": "biknm';",
+    "body": "kjijblihyb;oikm",
+    "created_at": "17-02-2024 15:14:46"
+  }
+]
